@@ -19,5 +19,8 @@ class ViewController: UIViewController {
         print("This is a Git tutorial")
     }
 
+    func sayHello() {
+        print("Nice to meet you")
+    }
 }
 
