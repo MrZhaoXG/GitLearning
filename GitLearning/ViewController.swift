@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    @IBAction func buttonClick(_ sender: UIButton) {
+        print("This is a Git tutorial")
+    }
 
 }
 
